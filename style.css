@@ -17,6 +17,16 @@ h1 {
     text-align: center;
 }
 
+p {
+  color: rgb(255, 153, 51);
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+  margin-top: 20px;
+  border: 2px solid rgb(255, 102, 0);
+  padding: 5px;
+}
+
 .k {
 	border: 2px solid rgb(255, 153, 51);
     padding: 10px;
